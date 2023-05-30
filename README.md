@@ -1,6 +1,6 @@
 # Simple DevOps Project
 
-[![Image](https://github.com/dounmogni/Simple-DevOps-Project/blob/master/DevOps_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")]
+[![Image](https://github.com/dounmogni/Simple-DevOps-Project/blob/master/DevOps_course.PNG "Devops Project - CI/CD with Jenkins Ansible Docker Kubernetes ")]
 
 This Repository is a collection of Implementation documents. 
 
